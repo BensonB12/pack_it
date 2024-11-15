@@ -10,4 +10,6 @@ https://arxiv.org/abs/2403.12195
 ### Authors Github
 https://github.com/bsubercaseaux/packit
 
-### Thomas Garrison, Marijn J. H. Heule, and Bernardo Subercaseaux. PackIt!: Gamified Rectangle Packing. In 12th International Conference on Fun with Algorithms (FUN 2024). Leibniz International Proceedings in Informatics (LIPIcs), Volume 291, pp. 14:1-14:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024) https://doi.org/10.4230/LIPIcs.FUN.2024.14
+
+### Citation
+Thomas Garrison, Marijn J. H. Heule, and Bernardo Subercaseaux. PackIt!: Gamified Rectangle Packing. In 12th International Conference on Fun with Algorithms (FUN 2024). Leibniz International Proceedings in Informatics (LIPIcs), Volume 291, pp. 14:1-14:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024) https://doi.org/10.4230/LIPIcs.FUN.2024.14
